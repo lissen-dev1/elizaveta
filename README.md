@@ -12,8 +12,7 @@
 | ИСРПО лек   | Дискрет лек|
 | ИСРПО лаб   | АиСД лек   |
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=yandex&logoColor=gray)
-
+![Release](https://img.shields.io/github/v/release/USER/REPO)
 цитата:
 > «Надо любить жизнь больше, чем смысл жизни
 
