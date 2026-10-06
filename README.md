@@ -15,11 +15,10 @@
 цитата:
 > «Надо любить жизнь больше, чем смысл жизни
 
-`int main() {`
-`     std::cout << "Hello World!";`
-
+`int main() {
+     std::cout << "Hello World!";
      return: 0;
-`}`
+}`
 
 🔥 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lissen-dev1&show_icons=true&theme=radical)
